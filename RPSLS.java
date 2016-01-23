@@ -16,7 +16,7 @@ import java.util.Scanner;
  */
 
 public class RPSLS {
-    /**
+    /*
      * Set up the rules for the game.
      * What are the moves, and what beats what?
      */
